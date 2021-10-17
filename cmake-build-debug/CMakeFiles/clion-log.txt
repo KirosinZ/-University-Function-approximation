@@ -1,0 +1,5 @@
+C:\Users\Kiril\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" C:\Users\Kiril\CLionProjects\CHM2
+-- Found SFML 2.5.1 in C:/Users/Kiril/CLionProjects/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Kiril/CLionProjects/CHM2/cmake-build-debug
